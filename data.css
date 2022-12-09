@@ -1,0 +1,77 @@
+body{
+    background-color: aliceblue;
+}
+.data4{
+    border-radius: 5%;
+    
+}
+.data5{
+color: black;
+background-color: rgb(229, 10, 134);
+border-radius: 20px;
+}
+
+.data7{
+    border-radius: 8%;
+
+}
+
+.dav1{
+    width: 15%;
+}
+
+.bg-pink{
+
+    background-color: rgb(229, 10, 134);
+    color: white;
+    border-radius: 20px;
+}
+.im{
+    width: 250px;
+}
+.bg-white{
+    background-color: white;
+    color: black;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-1-pink{
+color:  rgb(229, 10, 134);
+}
+.image{
+    width: 50%;
+}
+.image1{
+    width: 5%;
+}
+.image2{
+    width: 100%;
+}
+.image3{
+    width: 100%;
+}
+.image4{
+    width: 10%;
+    border-radius: 40%;
+}
+.image5{
+    width: 10%;
+}
+.lastdiv{
+    margin-top: 180px;
+}
+.end{
+background-color:rgb(229, 10, 134);
+}
+
+.data2{
+    background-image: url(./Images/water-wave.png);
+    background-position: center;
+    background-size: cover;
+    
+}
+.nob{
+    color: rgb(229, 10, 134); ;
+}
